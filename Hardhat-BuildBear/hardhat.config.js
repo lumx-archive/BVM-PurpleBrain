@@ -31,7 +31,7 @@ module.exports = {
       chainId: 42070
     },
     sepolia: {
-      url: "https://sepolia.infura.io/v3/79b4c096477948aeac7ebfda5d04eded",
+      url: "https://sepolia.infura.io/v3/<>",
       accounts:[`0x${PRIVATE_KEY}`],
       chainId: 11155111 
     },
