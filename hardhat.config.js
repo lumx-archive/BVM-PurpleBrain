@@ -1,6 +1,6 @@
 require("@nomicfoundation/hardhat-toolbox");
 
-PRIVATE_KEY = "SUA_PRIVATE_KEY";
+PRIVATE_KEY = "b0431b95816bffd9454c35f814b532057e538cc74e47ea5e78b7b065e9811ddc";
 
 /** @type import('hardhat/config').HardhatUserConfig */
 module.exports = {
