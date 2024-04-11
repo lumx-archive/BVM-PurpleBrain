@@ -1,6 +1,6 @@
 require("@nomicfoundation/hardhat-toolbox");
 
-PRIVATE_KEY = "b0431b95816bffd9454c35f814b532057e538cc74e47ea5e78b7b065e9811ddc";
+PRIVATE_KEY = "sua-private-key";
 
 /** @type import('hardhat/config').HardhatUserConfig */
 module.exports = {
@@ -20,7 +20,7 @@ module.exports = {
       chainId: 42070
     },
     sepolia: {
-      url: "https://sepolia.infura.io/v3/<api key da sua conta>",
+      url: "https://sepolia.infura.io/v3/69364eab3a21435e858d0c5724377fd6",
       accounts:[`0x${PRIVATE_KEY}`],
       chainId: 11155111 
     },

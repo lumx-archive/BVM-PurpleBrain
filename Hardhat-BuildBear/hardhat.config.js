@@ -31,9 +31,9 @@ module.exports = {
       chainId: 42070
     },
     sepolia: {
-      url: "https://sepolia.infura.io/v3/<>",
+      url: "https://sepolia.infura.io/v3/69364eab3a21435e858d0c5724377fd6",
       accounts:[`0x${PRIVATE_KEY}`],
-      chainId: 11155111 
+      chainId: 11155111
     },
     buildbear: {
       url: BBTestnet ? BBTestnet.rpcUrl : "",
